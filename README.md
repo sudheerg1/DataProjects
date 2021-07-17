@@ -1,8 +1,8 @@
 # DataProjects
 
-### Project 1: Exploratory Data Analysis of Air Conditioners Power Consumption
+### Project 1: Exploratory Data Analysis of Air Conditioners' Power Consumption
 
-The data contains power (in units) for multiple Air Conditioners' at some hotel in Gurgaon. The problem is open-ended for exploration analysis.
+The data contains power (in units) for multiple Air Conditioners at some hotel in Gurgaon. The problem is open-ended for exploration analysis.
 
 Objectives:
   1) Identify patterns or trends in the data
